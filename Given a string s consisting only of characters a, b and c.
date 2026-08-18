@@ -1,0 +1,14 @@
+class Solution {
+    public int numberOfSubstrings(String s) {
+        int left=0;
+        int right=0;
+        int []freq=new int[126];
+        int maxlen=0;
+        while(right<n){
+        char c=s.charAt(right);
+        freq[c-'a']++;
+        
+
+        }
+    }
+}
